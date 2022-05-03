@@ -1,0 +1,317 @@
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.AssemblyReference.cache
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.g.cs
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_Content.g.cs
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.cache
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.lref
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.exe
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\category.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\pull_down_64px.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\traffic_jam_80px.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.deps.json
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.runtimeconfig.json
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.baml
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.g.resources
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfoInputs.cache
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfo.cs
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.CoreCompileInputs.cache
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.genruntimeconfig.cache
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\carCategory.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\iconmonstr-car-20-240 (1).png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\menu_80px.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\cancel_80px.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\maximize_window_80px.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\categorize_100px.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\iconmonstr-customer-1-240.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\iconmonstr-log-out-10-240.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\iconmonstr-note-7-240.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\iconmonstr-cube-18-240.png
+D:\AssuitI-ITI\WPF\WpfCarManagmentSystem\bin\Debug\net6.0-windows\iconmonstr-menu-2-240 (1).png
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.exe
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.deps.json
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.runtimeconfig.json
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\bin\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.AssemblyReference.cache
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\images\MainWindow.g.cs
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.g.cs
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.g.cs
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.cache
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.lref
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\images\MainWindow.baml
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.baml
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.g.resources
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfoInputs.cache
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfo.cs
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.genruntimeconfig.cache
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\carCategory.png
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_Content.g.cs
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.baml
+F:\PROGRAMMING\ITI\ITI 9-month\WPF\Project\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.exe
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\carCategory.png
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.deps.json
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.runtimeconfig.json
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.AssemblyReference.cache
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.g.cs
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.g.cs
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_Content.g.cs
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.cache
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.lref
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.baml
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.baml
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.g.resources
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfoInputs.cache
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfo.cs
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.CoreCompileInputs.cache
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.genruntimeconfig.cache
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.g.cs
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.baml
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.baml
+D:\AssuitI-ITI\WPF\team editon\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\minimize_window_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\AdditionWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\EditionWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ProductView.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_Content.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.lref
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.exe
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\carCategory.png
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Audi.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\BMW.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Ferrari.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\lamborghini.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Marcedes.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Toyota.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\minimize_window_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.deps.json
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.runtimeconfig.json
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\AdditionWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\EditionWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ProductView.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.g.resources
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfo.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.genruntimeconfig.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\addbos.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\adddolu.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\editbos.png
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\editdolu.jpeg
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\removebos.png
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\removedolu.png
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.exe
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\addbos.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\adddolu.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\carCategory.png
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Audi.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\BMW.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Ferrari.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\lamborghini.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Marcedes.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Toyota.jpg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\editbos.png
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\editdolu.jpeg
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\minimize_window_80px.png
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\removebos.png
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\removedolu.png
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.deps.json
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.runtimeconfig.json
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\AdditionWindow.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\EditionWindow.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ProductView.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_Content.g.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.cache
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.lref
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\AdditionWindow.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\EditionWindow.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ProductView.baml
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.g.resources
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfo.cs
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\org\Downloads\c#-20220221T113449Z-001\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.genruntimeconfig.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\cancel_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CustomerWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CustomerWindow.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.exe
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\addbos.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\adddolu.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\back_to_240px.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\cancel_80px.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\carCategory.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Audi.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\BMW.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Ferrari.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\lamborghini.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Marcedes.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\Cars\Toyota.jpg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\editbos.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\editdolu.jpeg
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\JASON.PNG
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\minimize_window_80px.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\removebos.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\removedolu.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.deps.json
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.runtimeconfig.json
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\AdditionWindow.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CustomerWindow.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\EditionWindow.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ProductView.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_Content.g.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.cache
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.lref
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\App.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\AdditionWindow.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CategoryWindow.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\CustomerWindow.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\EditionWindow.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\Login.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ProductView.baml
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.g.resources
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\obj\Debug\net6.0-windows\WpfCarManagmentSystem.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\categorize_100px.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\category.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\customer_80px.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\maximize_window_80px.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\menu_80px.png
+C:\Users\Administrator\Downloads\WpfCarManagmentSystem\bin\Debug\net6.0-windows\images\traffic_jam_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\WpfCarManagmentSystem.exe
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\addbos.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\adddolu.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\back_to_240px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\cancel_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\carCategory.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\Cars\Audi.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\Cars\BMW.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\Cars\Ferrari.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\Cars\lamborghini.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\Cars\Marcedes.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\Cars\Toyota.jpg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\editbos.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\editdolu.jpeg
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\iconmonstr-cube-18-240.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\iconmonstr-customer-1-240.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\iconmonstr-log-out-10-240.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\maximize_window_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\menu_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\minimize_window_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\removebos.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\removedolu.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\AdditionWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\CategoryWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\CustomerWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\EditionWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\Login.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\ProductView.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\Resources\ButtonStyle.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\App.baml
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\AdditionWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\CategoryWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\CustomerWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\EditionWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\ProductView.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem_Content.g.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem_MarkupCompile.lref
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.g.resources
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.AssemblyInfo.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\categorize_100px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\category.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\customer_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\iconmonstr-car-20-240 (1).png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\iconmonstr-menu-2-240 (1).png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\iconmonstr-note-7-240.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\JASON.PNG
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\pull_down_64px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\images\traffic_jam_80px.png
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\WpfCarManagmentSystem.deps.json
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\WpfCarManagmentSystem.runtimeconfig.json
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\ref\WpfCarManagmentSystem.dll
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\bin\Debug\net6.0-windows\WpfCarManagmentSystem.pdb
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\WpfCarManagmentSystem.genruntimeconfig.cache

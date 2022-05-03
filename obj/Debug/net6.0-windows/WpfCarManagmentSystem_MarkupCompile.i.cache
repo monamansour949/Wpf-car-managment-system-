@@ -1,0 +1,20 @@
+﻿WpfCarManagmentSystem
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\obj\Debug\net6.0-windows\
+WpfCarManagmentSystem
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\org\Downloads\WpfCarManagmentSystem (2)\App.xaml
+82135638004
+30-87673115
+14-1928997719
+1941142463650
+AdditionWindow.xaml;CategoryWindow.xaml;CustomerWindow.xaml;EditionWindow.xaml;Login.xaml;MainWindow.xaml;ProductView.xaml;Resources\ButtonStyle.xaml;
+
+True
+

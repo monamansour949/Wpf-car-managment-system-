@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfCarManagmentSystem", "WpfCarManagmentSystem.csproj", "{79FF1E41-076C-454F-8DEF-585434816686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FF1E41-076C-454F-8DEF-585434816686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FF1E41-076C-454F-8DEF-585434816686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FF1E41-076C-454F-8DEF-585434816686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FF1E41-076C-454F-8DEF-585434816686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D1DA8E1-F6FD-4BA9-BA5E-7BFC13EDCBD9}
+	EndGlobalSection
+EndGlobal

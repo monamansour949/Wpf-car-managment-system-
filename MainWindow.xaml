@@ -1,0 +1,92 @@
+﻿<Window x:Class="WpfCarManagmentSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCarManagmentSystem"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        AllowsTransparency="True" Background="Transparent"
+        WindowStyle="None" ResizeMode="NoResize" MouseDown="Window_MouseDown"  WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition>
+                </RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="10" Grid.RowSpan="2">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#204da5" Offset="0.0"/>
+                        <GradientStop Color="#6cc4d5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>   
+            </Border>
+            <Grid x:Name="panelHeader" VerticalAlignment="Top" Height="50"  MouseDown="PanelHeader_MouseDown">
+                <TextBlock Text="" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Century Gothic" FontSize="20" FontWeight="Bold" Foreground="White"/>
+                <Button HorizontalAlignment="Right" Height="30" VerticalAlignment="Top" Background="Transparent" BorderBrush="Transparent" Click="Exit_Click" >
+                    <Image Source="images/cancel_80px.png"/>
+                   
+                </Button>
+                <Button HorizontalAlignment="Right" Margin="0 0 30 0" Height="30" VerticalAlignment="Top" Background="Transparent" BorderBrush="Transparent" Click="Maximize_Click" >
+                    <Image Source="images/maximize_window_80px.png"/>
+                </Button>
+
+                <Button HorizontalAlignment="Right" Margin="0 0 60 0" Height="30" VerticalAlignment="Top" Background="Transparent" BorderBrush="Transparent" Click="Minimize_Click" >
+                    <Image Source="images/minimize_window_80px.png"/>
+
+                </Button>
+            </Grid>
+            <Grid x:Name="sidePanel"  HorizontalAlignment="Left" Width="150" Background="#204da5">
+                <StackPanel>
+                    <Grid Height="150" Background="#204da5">
+                        <Button HorizontalAlignment="Right" Height="30" VerticalAlignment="Top" Background="Transparent" BorderBrush="Transparent" Click="Button_Click" >
+                            <Image Source="images/menu_80px.png"/>
+                        </Button>
+                    </Grid>
+                    <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" FontFamily="Century Gothic" FontSize="14" Foreground="White" BorderBrush="Transparent" Background="Transparent" FontWeight="Bold">
+                        <ListViewItem Height="30" Selected="ListViewItem_Selected">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="images/iconmonstr-cube-18-240.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15 0 0 0" Text="Category" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="30" Selected="ListViewItem_Selected_3">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="images/carCategory.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15 0 0 0" Text="Car Product" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="30" Selected="ListViewItem_Selected_2">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="images/iconmonstr-customer-1-240.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15 0 0 0" Text=" Customer" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </ListViewItem>
+            
+                        <ListViewItem Height="30" Selected="ListViewItem_Selected_1">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="images/iconmonstr-log-out-10-240.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15 0 0 0" Text="Log Out" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </ListViewItem>
+                    </ListView>
+                </StackPanel>
+            </Grid>
+            <!-- ffff -->
+            <!--<StackPanel x:Name="MainStack" Background="Transparent" Height="380" Width="600" Margin="0 0 -150 0" RenderTransformOrigin="0.62,1.193">
+              <Image Source="images/JASON.PNG" Height="590" 
+                       VerticalAlignment="Center" Margin="0 -92 -150 0"
+                       
+                       Opacity="0.47"
+                       />
+
+            </StackPanel>-->
+
+            <Frame x:Name="MainStack" Background="Transparent" Height="380" Width="600" Margin="0 0 -150 0" RenderTransformOrigin="0.62,1.193">
+                
+            </Frame>
+        </Grid>
+    </Grid>
+</Window>

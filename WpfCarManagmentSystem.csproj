@@ -1,0 +1,164 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Image\**" />
+    <EmbeddedResource Remove="Image\**" />
+    <None Remove="Image\**" />
+    <Page Remove="Image\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="cancel_80px.png" />
+    <None Remove="carCategory.png" />
+    <None Remove="categorize_100px.png" />
+    <None Remove="category.png" />
+    <None Remove="iconmonstr-car-20-240 %281%29.png" />
+    <None Remove="iconmonstr-cube-18-240.png" />
+    <None Remove="iconmonstr-customer-1-240.png" />
+    <None Remove="iconmonstr-log-out-10-240.png" />
+    <None Remove="iconmonstr-menu-2-240 %281%29.png" />
+    <None Remove="iconmonstr-note-7-240.png" />
+    <None Remove="images\addbos.jpg" />
+    <None Remove="images\adddolu.jpg" />
+    <None Remove="images\back_to_240px.png" />
+    <None Remove="images\cancel_80px.png" />
+    <None Remove="images\carCategory.png" />
+    <None Remove="images\Cars\Audi.jpg" />
+    <None Remove="images\Cars\BMW.jpg" />
+    <None Remove="images\Cars\Ferrari.jpg" />
+    <None Remove="images\Cars\lamborghini.jpg" />
+    <None Remove="images\Cars\Marcedes.jpg" />
+    <None Remove="images\Cars\Toyota.jpg" />
+    <None Remove="images\categorize_100px.png" />
+    <None Remove="images\category.png" />
+    <None Remove="images\customer_80px.png" />
+    <None Remove="images\editbos.png" />
+    <None Remove="images\editdolu.jpeg" />
+    <None Remove="images\Icon.ico" />
+    <None Remove="images\iconmonstr-car-20-240 %281%29.png" />
+    <None Remove="images\iconmonstr-cube-18-240.png" />
+    <None Remove="images\iconmonstr-customer-1-240.png" />
+    <None Remove="images\iconmonstr-log-out-10-240.png" />
+    <None Remove="images\iconmonstr-menu-2-240 %281%29.png" />
+    <None Remove="images\iconmonstr-note-7-240.png" />
+    <None Remove="images\JASON.PNG" />
+    <None Remove="images\maximize_window_80px.png" />
+    <None Remove="images\menu_80px.png" />
+    <None Remove="images\minimize_window_80px.png" />
+    <None Remove="images\pull_down_64px.png" />
+    <None Remove="images\removebos.png" />
+    <None Remove="images\removedolu.png" />
+    <None Remove="images\traffic_jam_80px.png" />
+    <None Remove="maximize_window_80px.png" />
+    <None Remove="menu_80px.png" />
+    <None Remove="pull_down_64px.png" />
+    <None Remove="traffic_jam_80px.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\addbos.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\adddolu.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\back_to_240px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\cancel_80px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\carCategory.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Cars\Audi.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Cars\BMW.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Cars\Ferrari.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Cars\lamborghini.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Cars\Marcedes.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Cars\Toyota.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\categorize_100px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\category.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\customer_80px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\editbos.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\editdolu.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\iconmonstr-car-20-240 (1).png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\iconmonstr-cube-18-240.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\iconmonstr-customer-1-240.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\iconmonstr-log-out-10-240.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\iconmonstr-menu-2-240 (1).png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\iconmonstr-note-7-240.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\JASON.PNG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\maximize_window_80px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\menu_80px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\minimize_window_80px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\pull_down_64px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\removebos.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\removedolu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\traffic_jam_80px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\Icon.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

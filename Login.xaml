@@ -1,0 +1,106 @@
+﻿<Window x:Class="WpfCarManagmentSystem.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCarManagmentSystem"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="380"
+        AllowsTransparency="True" Background="Transparent"
+        WindowStyle="None" ResizeMode="NoResize" MouseDown="Window_MouseDown" 
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="26.5"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+
+            <Border CornerRadius="10" Grid.RowSpan="3">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#204da5" Offset="0.0"/>
+                        <GradientStop Color="#6cc4d5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+
+
+            <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top">
+                <Button Content="-" Width="15" Height="15" 
+                        HorizontalContentAlignment="Center" 
+                        VerticalContentAlignment="Center"
+                        Margin="0,11,10,0"
+                        Click="MinimizeButton_Click"/>
+                <Button Content="X" Width="15" Height="15" 
+                        FontSize="6"
+                        HorizontalContentAlignment="Center" 
+                        VerticalContentAlignment="Center"
+                        Margin="0,11,11,0" 
+                        Click="ExitButton_Click"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" VerticalAlignment="Center">
+                <Image Source="images/carCategory.png" Width="200" Height="150"
+                       VerticalAlignment="Top"
+                       HorizontalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2">
+
+                <StackPanel  Orientation="Horizontal">
+                    <TextBox x:Name="UName" 
+                        FontFamily="helvetica"
+                         FontWeight="Light"
+                         Text="User Name"
+                         FontSize="20"
+                         HorizontalAlignment="Center"
+                         Foreground="White"
+                         Background="Transparent"
+                         BorderThickness="0"
+                         Padding="5"
+                         Margin="63,0,0,0"
+                         Width="235"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.47"/>
+                </StackPanel>
+                <Border Width="250"
+                    Height="1.5"
+                    Background="White"
+                    Opacity="0.5"
+                    />
+
+                <StackPanel  Orientation="Horizontal" Margin="0,15,0,0">
+                    <PasswordBox x:Name="password"
+                        FontFamily="helvetica"
+                         FontWeight="Light"
+                         Password="Password"
+                         FontSize="20"
+                         HorizontalAlignment="Center"
+                         Foreground="White"
+                         Background="Transparent"
+                         BorderThickness="0"
+                         Padding="5"
+                         Margin="63,0,0,0"
+                         Width="235"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.47"/>
+                </StackPanel>
+                <Border Width="250"
+                    Height="1.5"
+                    Background="White"
+                    Opacity="0.5"
+                    />
+
+                <StackPanel Orientation="Horizontal" Margin="0,35">
+                    <Button Width="100" Height="40" Content="LOG IN" Margin="150,0,60,0" Click="LoginBtn_Click"/>
+                </StackPanel>
+
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Window>
